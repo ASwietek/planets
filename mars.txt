@@ -9,3 +9,6 @@ mic check one two what is this
 cold and dry, cant wait for caboo
 
 a third line in the file
+
+the conflicting line
+
